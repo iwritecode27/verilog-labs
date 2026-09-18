@@ -29,6 +29,7 @@ module tb;
       $dumpvars(0, U1);
     end
   end
+  
 
   initial begin
     // TODO: apply all 8 combinations of t_i0, t_i1, t_s, 5 time units apart,
