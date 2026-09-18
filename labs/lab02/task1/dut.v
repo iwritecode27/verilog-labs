@@ -10,7 +10,6 @@ module DUT (
   output Y
 );
 
-
   // ---- Option 1: dataflow version ----
   mux_df U1 (
     .I0 (I0),
@@ -28,6 +27,6 @@ module DUT (
   //   .S  (S),
   //   .Y  (Y)
   // );
-  
+
 
 endmodule

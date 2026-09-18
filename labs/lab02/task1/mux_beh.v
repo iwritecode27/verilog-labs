@@ -20,4 +20,3 @@ module mux_beh (
   end
 
 endmodule
-
